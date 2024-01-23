@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1706049631501,
-      "created": 1706049631501,
+      "updated": 1706053430025,
+      "created": 1706053430025,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -23,11 +23,13 @@
     "14bcxky1ao2buguzpeb3g1c": {
       "id": "14bcxky1ao2buguzpeb3g1c",
       "title": "PlatformX OS Club",
-      "config": {
-        "nav_exclude_children": true
-      },
       "desc": "OS is fun",
-      "updated": 1706047145520,
+      "config": {
+        "global": {
+          "enableChildLinks": false
+        }
+      },
+      "updated": 1706052843311,
       "created": 1705965583029,
       "custom": {
         "nav_order": 0,
@@ -40,7 +42,7 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "67ab5abc44c7e4d17cdc6329c6f97286",
+      "contentHash": "67819ba3c0c33c700202a56aa6b6d9ad",
       "links": [
         {
           "type": "wiki",
@@ -52,14 +54,14 @@
           "value": "news",
           "position": {
             "start": {
-              "line": 6,
+              "line": 9,
               "column": 1,
-              "offset": 121
+              "offset": 192
             },
             "end": {
-              "line": 6,
+              "line": 9,
               "column": 9,
-              "offset": 129
+              "offset": 200
             },
             "indent": []
           },
@@ -75,44 +77,53 @@
           "type": "header",
           "text": "Welcome!",
           "value": "welcome",
-          "line": 9,
+          "line": 10,
           "column": 0,
           "depth": 1
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 14,
+          "column": 0,
+          "depth": 2
         },
         "news": {
           "type": "header",
           "text": "News",
           "value": "news",
-          "line": 13,
+          "line": 17,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "references": {
           "type": "header",
           "text": "References",
           "value": "references",
-          "line": 16,
+          "line": 20,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "check-our-groups-website-and-awesome-research-projects": {
           "type": "header",
           "text": "Check Our Groups Website and Awesome Research Projects!",
           "value": "check-our-groups-website-and-awesome-research-projects",
-          "line": 18,
+          "line": 21,
           "column": 0,
-          "depth": 2
+          "depth": 3
         },
         "want-to-learn-more-check-these": {
           "type": "header",
           "text": "Want to Learn More? Check these:",
           "value": "want-to-learn-more-check-these",
-          "line": 20,
+          "line": 23,
           "column": 0,
-          "depth": 2
+          "depth": 3
         }
       },
       "children": [
+        "o26uztn7b2i0m3ehlm0y0k2",
         "it9t5bf108xpxl99mfuyk2q"
       ],
       "parent": null,
@@ -122,7 +133,7 @@
       "id": "it9t5bf108xpxl99mfuyk2q",
       "title": "News",
       "desc": "",
-      "updated": 1706047393793,
+      "updated": 1706050791471,
       "created": 1706045497877,
       "custom": {},
       "fname": "News",
@@ -132,8 +143,35 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "a2d6d2700ba705eed8b9ecf385dfef8c",
+      "contentHash": "87fae67b1257cc3d7079545fe51853ab",
       "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "News",
+            "id": "it9t5bf108xpxl99mfuyk2q",
+            "vaultName": "test"
+          },
+          "value": "News.012324",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 32,
+              "offset": 32
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "News.012324",
+            "anchorHeader": "starting-point"
+          }
+        },
         {
           "from": {
             "fname": "root",
@@ -143,14 +181,14 @@
           "type": "backlink",
           "position": {
             "start": {
-              "line": 6,
+              "line": 9,
               "column": 1,
-              "offset": 121
+              "offset": 192
             },
             "end": {
-              "line": 6,
+              "line": 9,
               "column": 9,
-              "offset": 129
+              "offset": 200
             },
             "indent": []
           },
@@ -159,30 +197,83 @@
       ],
       "anchors": {},
       "children": [
-        "zjgsnmrz8s9dvlcrg7femb0"
+        "nlg8v44wcu90adh3846rno7"
       ],
       "parent": "14bcxky1ao2buguzpeb3g1c",
       "data": {}
     },
-    "zjgsnmrz8s9dvlcrg7femb0": {
-      "id": "zjgsnmrz8s9dvlcrg7femb0",
-      "title": "child",
+    "nlg8v44wcu90adh3846rno7": {
+      "id": "nlg8v44wcu90adh3846rno7",
+      "title": "Jan/23/2024",
       "desc": "",
-      "updated": 1706047169277,
-      "created": 1706045497844,
+      "updated": 1706050751189,
+      "created": 1706050559954,
       "custom": {},
-      "fname": "News.child",
+      "fname": "News.012324",
       "type": "note",
       "vault": {
         "fsPath": ".",
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "d11c7aa2f3e4cb6bd0964239b42975c0",
+      "contentHash": "ea9a91ba89626f440e099b27e92bd88f",
+      "links": [
+        {
+          "from": {
+            "fname": "News",
+            "id": "it9t5bf108xpxl99mfuyk2q",
+            "vaultName": "test"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 1
+            },
+            "end": {
+              "line": 2,
+              "column": 32,
+              "offset": 32
+            },
+            "indent": []
+          },
+          "value": "News.012324"
+        }
+      ],
+      "anchors": {
+        "starting-point": {
+          "type": "header",
+          "text": "Starting Point!",
+          "value": "starting-point",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "it9t5bf108xpxl99mfuyk2q",
+      "data": {}
+    },
+    "o26uztn7b2i0m3ehlm0y0k2": {
+      "id": "o26uztn7b2i0m3ehlm0y0k2",
+      "title": "About Us",
+      "desc": "",
+      "updated": 1706050504590,
+      "created": 1706050461999,
+      "custom": {},
+      "fname": "AboutUs",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "test"
+      },
+      "contentHash": "4b973ffce4a000b16bed78075b0461b6",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "it9t5bf108xpxl99mfuyk2q",
+      "parent": "14bcxky1ao2buguzpeb3g1c",
       "data": {}
     }
   },
@@ -190,11 +281,13 @@
     {
       "id": "14bcxky1ao2buguzpeb3g1c",
       "title": "PlatformX OS Club",
-      "config": {
-        "nav_exclude_children": true
-      },
       "desc": "OS is fun",
-      "updated": 1706047145520,
+      "config": {
+        "global": {
+          "enableChildLinks": false
+        }
+      },
+      "updated": 1706052843311,
       "created": 1705965583029,
       "custom": {
         "nav_order": 0,
@@ -207,7 +300,7 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "67ab5abc44c7e4d17cdc6329c6f97286",
+      "contentHash": "67819ba3c0c33c700202a56aa6b6d9ad",
       "links": [
         {
           "type": "wiki",
@@ -219,14 +312,14 @@
           "value": "news",
           "position": {
             "start": {
-              "line": 6,
+              "line": 9,
               "column": 1,
-              "offset": 121
+              "offset": 192
             },
             "end": {
-              "line": 6,
+              "line": 9,
               "column": 9,
-              "offset": 129
+              "offset": 200
             },
             "indent": []
           },
@@ -242,59 +335,70 @@
           "type": "header",
           "text": "Welcome!",
           "value": "welcome",
-          "line": 9,
+          "line": 10,
           "column": 0,
           "depth": 1
+        },
+        "blogs": {
+          "type": "header",
+          "text": "Blogs",
+          "value": "blogs",
+          "line": 14,
+          "column": 0,
+          "depth": 2
         },
         "news": {
           "type": "header",
           "text": "News",
           "value": "news",
-          "line": 13,
+          "line": 17,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "references": {
           "type": "header",
           "text": "References",
           "value": "references",
-          "line": 16,
+          "line": 20,
           "column": 0,
-          "depth": 1
+          "depth": 2
         },
         "check-our-groups-website-and-awesome-research-projects": {
           "type": "header",
           "text": "Check Our Groups Website and Awesome Research Projects!",
           "value": "check-our-groups-website-and-awesome-research-projects",
-          "line": 18,
+          "line": 21,
           "column": 0,
-          "depth": 2
+          "depth": 3
         },
         "want-to-learn-more-check-these": {
           "type": "header",
           "text": "Want to Learn More? Check these:",
           "value": "want-to-learn-more-check-these",
-          "line": 20,
+          "line": 23,
           "column": 0,
-          "depth": 2
+          "depth": 3
         }
       },
       "children": [
+        "o26uztn7b2i0m3ehlm0y0k2",
         "it9t5bf108xpxl99mfuyk2q"
       ],
       "parent": null,
       "data": {},
-      "body": "# Welcome!\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[[news]]\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](https://www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin](https://elixir.bootlin.com/linux/latest/source)\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
+      "body": "# Welcome!\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n## Blogs\nWe record many interesting notes in various OS topics here:\n\n## News\n[[news]]\n\n## References\n### Check Our Groups Website and Awesome Research Projects!\n- Platform Research Lab \\[[platformxlab](platformxlab.github.io)\\]\n### Want to Learn More? Check these:\n> Linux Kernel Dev:\n- Linux Source Code \\[[kernel.org](https://www.kernel.org)\\]\n- Linux Documentation \\[[Doc](https://docs.kernel.org/)\\] \n- Many useful Wikis \\[[Wikis](https://www.wiki.kernel.org/)\\]\n- Check all linux mailing list archives \\[[Mail Archive](https://lkml.org/)\\]\n- A good website for viewing code \\[[bootlin](https://elixir.bootlin.com/linux/latest/source)\\]\n- Other useful sites: \\[[planet kernel](https://planet.kernel.org/)\\] \\[[kernel newbees](https://kernelnewbies.org/Documents)\\] \n\n<!-- > Books!\n- \\[[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)\\] -->\n  \n"
     }
   ],
   "noteIndex": {
     "id": "14bcxky1ao2buguzpeb3g1c",
     "title": "PlatformX OS Club",
-    "config": {
-      "nav_exclude_children": true
-    },
     "desc": "OS is fun",
-    "updated": 1706047145520,
+    "config": {
+      "global": {
+        "enableChildLinks": false
+      }
+    },
+    "updated": 1706052843311,
     "created": 1705965583029,
     "custom": {
       "nav_order": 0,
@@ -307,7 +411,7 @@
       "selfContained": true,
       "name": "test"
     },
-    "contentHash": "67ab5abc44c7e4d17cdc6329c6f97286",
+    "contentHash": "67819ba3c0c33c700202a56aa6b6d9ad",
     "links": [
       {
         "type": "wiki",
@@ -319,14 +423,14 @@
         "value": "news",
         "position": {
           "start": {
-            "line": 6,
+            "line": 9,
             "column": 1,
-            "offset": 121
+            "offset": 192
           },
           "end": {
-            "line": 6,
+            "line": 9,
             "column": 9,
-            "offset": 129
+            "offset": 200
           },
           "indent": []
         },
@@ -342,49 +446,58 @@
         "type": "header",
         "text": "Welcome!",
         "value": "welcome",
-        "line": 9,
+        "line": 10,
         "column": 0,
         "depth": 1
+      },
+      "blogs": {
+        "type": "header",
+        "text": "Blogs",
+        "value": "blogs",
+        "line": 14,
+        "column": 0,
+        "depth": 2
       },
       "news": {
         "type": "header",
         "text": "News",
         "value": "news",
-        "line": 13,
+        "line": 17,
         "column": 0,
-        "depth": 1
+        "depth": 2
       },
       "references": {
         "type": "header",
         "text": "References",
         "value": "references",
-        "line": 16,
+        "line": 20,
         "column": 0,
-        "depth": 1
+        "depth": 2
       },
       "check-our-groups-website-and-awesome-research-projects": {
         "type": "header",
         "text": "Check Our Groups Website and Awesome Research Projects!",
         "value": "check-our-groups-website-and-awesome-research-projects",
-        "line": 18,
+        "line": 21,
         "column": 0,
-        "depth": 2
+        "depth": 3
       },
       "want-to-learn-more-check-these": {
         "type": "header",
         "text": "Want to Learn More? Check these:",
         "value": "want-to-learn-more-check-these",
-        "line": 20,
+        "line": 23,
         "column": 0,
-        "depth": 2
+        "depth": 3
       }
     },
     "children": [
+      "o26uztn7b2i0m3ehlm0y0k2",
       "it9t5bf108xpxl99mfuyk2q"
     ],
     "parent": null,
     "data": {},
-    "body": "# Welcome!\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[[news]]\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](https://www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin](https://elixir.bootlin.com/linux/latest/source)\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
+    "body": "# Welcome!\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n## Blogs\nWe record many interesting notes in various OS topics here:\n\n## News\n[[news]]\n\n## References\n### Check Our Groups Website and Awesome Research Projects!\n- Platform Research Lab \\[[platformxlab](platformxlab.github.io)\\]\n### Want to Learn More? Check these:\n> Linux Kernel Dev:\n- Linux Source Code \\[[kernel.org](https://www.kernel.org)\\]\n- Linux Documentation \\[[Doc](https://docs.kernel.org/)\\] \n- Many useful Wikis \\[[Wikis](https://www.wiki.kernel.org/)\\]\n- Check all linux mailing list archives \\[[Mail Archive](https://lkml.org/)\\]\n- A good website for viewing code \\[[bootlin](https://elixir.bootlin.com/linux/latest/source)\\]\n- Other useful sites: \\[[planet kernel](https://planet.kernel.org/)\\] \\[[kernel newbees](https://kernelnewbies.org/Documents)\\] \n\n<!-- > Books!\n- \\[[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)\\] -->\n  \n"
   },
   "vaults": [
     {
