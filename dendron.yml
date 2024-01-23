@@ -94,14 +94,14 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: PlatformX OS Club 
+        description: OS is fun
     github:
-        enableEditLink: true
+        enableEditLink: false
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-    enableSiteLastModified: true
+    enableSiteLastModified: false
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
