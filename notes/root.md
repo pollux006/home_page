@@ -5,7 +5,7 @@ desc: 'OS is fun'
 config:
   global:
     enableChildLinks: false
-updated: 1706052843311
+updated: 1706053682719
 created: 1705965583029
 ---
 # Welcome!
@@ -20,7 +20,7 @@ We record many interesting notes in various OS topics here:
 
 ## References
 ### Check Our Groups Website and Awesome Research Projects!
-- Platform Research Lab \[[platformxlab](platformxlab.github.io)\]
+- Platform Research Lab \[[platformxlab](https://platformxlab.github.io)\]
 ### Want to Learn More? Check these:
 > Linux Kernel Dev:
 - Linux Source Code \[[kernel.org](https://www.kernel.org)\]

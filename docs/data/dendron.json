@@ -130,7 +130,7 @@
     "searchMode": "search",
     "siteUrl": "https://pollux006.github.io",
     "logoPath": "/notes/assets/pic/tux.png",
-    "siteFaviconPath": "favicon.ico",
+    "siteFaviconPath": "/notes/assets/pic/tux.png",
     "siteIndex": "root"
   }
 }

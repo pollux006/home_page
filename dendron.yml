@@ -90,6 +90,7 @@ publishing:
     siteHierarchies:
         - root
     logoPath: /notes/assets/pic/tux.png
+    siteFaviconPath: /notes/assets/pic/tux.png
     writeStubs: false
     siteRootDir: docs
     seo:
