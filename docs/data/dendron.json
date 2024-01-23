@@ -113,7 +113,7 @@
     "siteRootDir": "docs",
     "seo": {
       "title": "PlatformX OS Club",
-      "description": "OS is fun"
+      "description": "Operating System is fun"
     },
     "github": {
       "enableEditLink": false,
@@ -130,6 +130,7 @@
     "searchMode": "search",
     "assetsPrefix": "/home_page",
     "siteUrl": "https://pollux006.github.io",
+    "logoPath": "/notes/assets/pic/tux.png",
     "siteFaviconPath": "favicon.ico",
     "siteIndex": "root"
   }

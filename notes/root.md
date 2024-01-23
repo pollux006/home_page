@@ -1,20 +1,24 @@
 ---
 id: 14bcxky1ao2buguzpeb3g1c
 title: Root
+config:
+    nav_exclude_children: true
 desc: ''
-updated: 1705965583028
+updated: 1706041641555
 created: 1705965583029
 ---
-# Welcome to Dendron
+# Welcome to PlatformX OS Club
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+This is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. 
 
-## Lookup
+# News
+[News Homepage](root.news)
 
-This section contains useful links to related resources.
+# References
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+## Check Our Groups Website and Awesome Research Projects!
+
+## Want to Learn More? Check these:
+- Linux Source Code \[[kernel.org](www.kernel.org)\]
+- A good website for viewing code \[[bootlin]((elixir.bootlin.com/linux/latest/source))\]
+- A good OS book \[[Operating Systems: Three Easy Pieces](pages.cs.wisc.edu/~remzi/OSTEP/)\]

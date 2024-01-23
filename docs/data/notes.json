@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1706039951477,
-      "created": 1706039951477,
+      "updated": 1706041896365,
+      "created": 1706041896365,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -23,8 +23,11 @@
     "14bcxky1ao2buguzpeb3g1c": {
       "id": "14bcxky1ao2buguzpeb3g1c",
       "title": "Root",
+      "config": {
+        "nav_exclude_children": true
+      },
       "desc": "",
-      "updated": 1705965583028,
+      "updated": 1706041641555,
       "created": 1705965583029,
       "custom": {
         "nav_order": 0,
@@ -37,22 +40,46 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "9fbf4988f527e3e02531f4a2d42c8b59",
+      "contentHash": "4f78838007afa049e382f9e306597cee",
       "links": [],
       "anchors": {
-        "welcome-to-dendron": {
+        "welcome-to-platformx-os-club": {
           "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
-          "line": 7,
+          "text": "Welcome to PlatformX OS Club",
+          "value": "welcome-to-platformx-os-club",
+          "line": 9,
           "column": 0,
           "depth": 1
         },
-        "lookup": {
+        "news": {
           "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
+          "text": "News",
+          "value": "news",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        },
+        "check-our-groups-website-and-awesome-research-projects": {
+          "type": "header",
+          "text": "Check Our Groups Website and Awesome Research Projects!",
+          "value": "check-our-groups-website-and-awesome-research-projects",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "want-to-learn-more-check-these": {
+          "type": "header",
+          "text": "Want to Learn More? Check these:",
+          "value": "want-to-learn-more-check-these",
+          "line": 20,
           "column": 0,
           "depth": 2
         }
@@ -66,8 +93,11 @@
     {
       "id": "14bcxky1ao2buguzpeb3g1c",
       "title": "Root",
+      "config": {
+        "nav_exclude_children": true
+      },
       "desc": "",
-      "updated": 1705965583028,
+      "updated": 1706041641555,
       "created": 1705965583029,
       "custom": {
         "nav_order": 0,
@@ -80,22 +110,46 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "9fbf4988f527e3e02531f4a2d42c8b59",
+      "contentHash": "4f78838007afa049e382f9e306597cee",
       "links": [],
       "anchors": {
-        "welcome-to-dendron": {
+        "welcome-to-platformx-os-club": {
           "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
-          "line": 7,
+          "text": "Welcome to PlatformX OS Club",
+          "value": "welcome-to-platformx-os-club",
+          "line": 9,
           "column": 0,
           "depth": 1
         },
-        "lookup": {
+        "news": {
           "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
+          "text": "News",
+          "value": "news",
+          "line": 13,
+          "column": 0,
+          "depth": 1
+        },
+        "references": {
+          "type": "header",
+          "text": "References",
+          "value": "references",
+          "line": 16,
+          "column": 0,
+          "depth": 1
+        },
+        "check-our-groups-website-and-awesome-research-projects": {
+          "type": "header",
+          "text": "Check Our Groups Website and Awesome Research Projects!",
+          "value": "check-our-groups-website-and-awesome-research-projects",
+          "line": 18,
+          "column": 0,
+          "depth": 2
+        },
+        "want-to-learn-more-check-these": {
+          "type": "header",
+          "text": "Want to Learn More? Check these:",
+          "value": "want-to-learn-more-check-these",
+          "line": 20,
           "column": 0,
           "depth": 2
         }
@@ -103,14 +157,17 @@
       "children": [],
       "parent": null,
       "data": {},
-      "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)"
+      "body": "# Welcome to PlatformX OS Club\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[News Homepage](root.news)\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin]((elixir.bootlin.com/linux/latest/source))\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
     }
   ],
   "noteIndex": {
     "id": "14bcxky1ao2buguzpeb3g1c",
     "title": "Root",
+    "config": {
+      "nav_exclude_children": true
+    },
     "desc": "",
-    "updated": 1705965583028,
+    "updated": 1706041641555,
     "created": 1705965583029,
     "custom": {
       "nav_order": 0,
@@ -123,22 +180,46 @@
       "selfContained": true,
       "name": "test"
     },
-    "contentHash": "9fbf4988f527e3e02531f4a2d42c8b59",
+    "contentHash": "4f78838007afa049e382f9e306597cee",
     "links": [],
     "anchors": {
-      "welcome-to-dendron": {
+      "welcome-to-platformx-os-club": {
         "type": "header",
-        "text": "Welcome to Dendron",
-        "value": "welcome-to-dendron",
-        "line": 7,
+        "text": "Welcome to PlatformX OS Club",
+        "value": "welcome-to-platformx-os-club",
+        "line": 9,
         "column": 0,
         "depth": 1
       },
-      "lookup": {
+      "news": {
         "type": "header",
-        "text": "Lookup",
-        "value": "lookup",
-        "line": 11,
+        "text": "News",
+        "value": "news",
+        "line": 13,
+        "column": 0,
+        "depth": 1
+      },
+      "references": {
+        "type": "header",
+        "text": "References",
+        "value": "references",
+        "line": 16,
+        "column": 0,
+        "depth": 1
+      },
+      "check-our-groups-website-and-awesome-research-projects": {
+        "type": "header",
+        "text": "Check Our Groups Website and Awesome Research Projects!",
+        "value": "check-our-groups-website-and-awesome-research-projects",
+        "line": 18,
+        "column": 0,
+        "depth": 2
+      },
+      "want-to-learn-more-check-these": {
+        "type": "header",
+        "text": "Want to Learn More? Check these:",
+        "value": "want-to-learn-more-check-these",
+        "line": 20,
         "column": 0,
         "depth": 2
       }
@@ -146,7 +227,7 @@
     "children": [],
     "parent": null,
     "data": {},
-    "body": "# Welcome to Dendron\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\n\n## Lookup\n\nThis section contains useful links to related resources.\n\n- [Getting Started Guide](https://link.dendron.so/6b25)\n- [Discord](https://link.dendron.so/6b23)\n- [Home Page](https://wiki.dendron.so/)\n- [Github](https://link.dendron.so/6b24)\n- [Developer Docs](https://docs.dendron.so/)"
+    "body": "# Welcome to PlatformX OS Club\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[News Homepage](root.news)\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin]((elixir.bootlin.com/linux/latest/source))\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
   },
   "vaults": [
     {

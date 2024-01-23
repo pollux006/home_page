@@ -91,11 +91,12 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
+    logoPath: /notes/assets/pic/tux.png
     writeStubs: false
     siteRootDir: docs
     seo:
         title: PlatformX OS Club 
-        description: OS is fun
+        description: Operating System is fun
     github:
         enableEditLink: false
         editLinkText: Edit this page on GitHub
