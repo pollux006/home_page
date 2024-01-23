@@ -84,7 +84,6 @@ preview:
 publishing:
     assetsPrefix: /home_page
     siteUrl: https://pollux006.github.io
-    enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
     enableKatex: true

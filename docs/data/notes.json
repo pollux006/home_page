@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1706045619971,
-      "created": 1706045619971,
+      "updated": 1706047432013,
+      "created": 1706047432013,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -23,12 +23,13 @@
     "14bcxky1ao2buguzpeb3g1c": {
       "id": "14bcxky1ao2buguzpeb3g1c",
       "title": "PlatformX OS Club",
-      "nav_exclude_children": true,
+      "config": {
+        "nav_exclude_children": true
+      },
       "desc": "OS is fun",
-      "updated": 1706045455194,
+      "updated": 1706047145520,
       "created": 1705965583029,
       "custom": {
-        "nav_exclude_children": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -39,7 +40,7 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "3e132c58785a649fbfa466106459ccd8",
+      "contentHash": "67ab5abc44c7e4d17cdc6329c6f97286",
       "links": [
         {
           "type": "wiki",
@@ -74,7 +75,7 @@
           "type": "header",
           "text": "Welcome!",
           "value": "welcome",
-          "line": 8,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -82,7 +83,7 @@
           "type": "header",
           "text": "News",
           "value": "news",
-          "line": 12,
+          "line": 13,
           "column": 0,
           "depth": 1
         },
@@ -90,7 +91,7 @@
           "type": "header",
           "text": "References",
           "value": "references",
-          "line": 15,
+          "line": 16,
           "column": 0,
           "depth": 1
         },
@@ -98,7 +99,7 @@
           "type": "header",
           "text": "Check Our Groups Website and Awesome Research Projects!",
           "value": "check-our-groups-website-and-awesome-research-projects",
-          "line": 17,
+          "line": 18,
           "column": 0,
           "depth": 2
         },
@@ -106,23 +107,23 @@
           "type": "header",
           "text": "Want to Learn More? Check these:",
           "value": "want-to-learn-more-check-these",
-          "line": 19,
+          "line": 20,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
-        "d86opcdblmnph6tww6zlbvi"
+        "it9t5bf108xpxl99mfuyk2q"
       ],
       "parent": null,
       "data": {}
     },
-    "d86opcdblmnph6tww6zlbvi": {
-      "id": "d86opcdblmnph6tww6zlbvi",
-      "title": "News HomePage",
+    "it9t5bf108xpxl99mfuyk2q": {
+      "id": "it9t5bf108xpxl99mfuyk2q",
+      "title": "News",
       "desc": "",
-      "updated": 1706045580494,
-      "created": 1706045384988,
+      "updated": 1706047393793,
+      "created": 1706045497877,
       "custom": {},
       "fname": "News",
       "type": "note",
@@ -131,7 +132,7 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "43c99d29553bb039a67bc4e06c7cfad0",
+      "contentHash": "a2d6d2700ba705eed8b9ecf385dfef8c",
       "links": [
         {
           "from": {
@@ -167,7 +168,7 @@
       "id": "zjgsnmrz8s9dvlcrg7femb0",
       "title": "child",
       "desc": "",
-      "updated": 1706045507253,
+      "updated": 1706047169277,
       "created": 1706045497844,
       "custom": {},
       "fname": "News.child",
@@ -177,11 +178,11 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "08832e83802296f7c57c2186f97ecdc9",
+      "contentHash": "d11c7aa2f3e4cb6bd0964239b42975c0",
       "links": [],
       "anchors": {},
       "children": [],
-      "parent": "d86opcdblmnph6tww6zlbvi",
+      "parent": "it9t5bf108xpxl99mfuyk2q",
       "data": {}
     }
   },
@@ -189,12 +190,13 @@
     {
       "id": "14bcxky1ao2buguzpeb3g1c",
       "title": "PlatformX OS Club",
-      "nav_exclude_children": true,
+      "config": {
+        "nav_exclude_children": true
+      },
       "desc": "OS is fun",
-      "updated": 1706045455194,
+      "updated": 1706047145520,
       "created": 1705965583029,
       "custom": {
-        "nav_exclude_children": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -205,7 +207,7 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "3e132c58785a649fbfa466106459ccd8",
+      "contentHash": "67ab5abc44c7e4d17cdc6329c6f97286",
       "links": [
         {
           "type": "wiki",
@@ -240,7 +242,7 @@
           "type": "header",
           "text": "Welcome!",
           "value": "welcome",
-          "line": 8,
+          "line": 9,
           "column": 0,
           "depth": 1
         },
@@ -248,7 +250,7 @@
           "type": "header",
           "text": "News",
           "value": "news",
-          "line": 12,
+          "line": 13,
           "column": 0,
           "depth": 1
         },
@@ -256,7 +258,7 @@
           "type": "header",
           "text": "References",
           "value": "references",
-          "line": 15,
+          "line": 16,
           "column": 0,
           "depth": 1
         },
@@ -264,7 +266,7 @@
           "type": "header",
           "text": "Check Our Groups Website and Awesome Research Projects!",
           "value": "check-our-groups-website-and-awesome-research-projects",
-          "line": 17,
+          "line": 18,
           "column": 0,
           "depth": 2
         },
@@ -272,13 +274,13 @@
           "type": "header",
           "text": "Want to Learn More? Check these:",
           "value": "want-to-learn-more-check-these",
-          "line": 19,
+          "line": 20,
           "column": 0,
           "depth": 2
         }
       },
       "children": [
-        "d86opcdblmnph6tww6zlbvi"
+        "it9t5bf108xpxl99mfuyk2q"
       ],
       "parent": null,
       "data": {},
@@ -288,12 +290,13 @@
   "noteIndex": {
     "id": "14bcxky1ao2buguzpeb3g1c",
     "title": "PlatformX OS Club",
-    "nav_exclude_children": true,
+    "config": {
+      "nav_exclude_children": true
+    },
     "desc": "OS is fun",
-    "updated": 1706045455194,
+    "updated": 1706047145520,
     "created": 1705965583029,
     "custom": {
-      "nav_exclude_children": true,
       "nav_order": 0,
       "permalink": "/"
     },
@@ -304,7 +307,7 @@
       "selfContained": true,
       "name": "test"
     },
-    "contentHash": "3e132c58785a649fbfa466106459ccd8",
+    "contentHash": "67ab5abc44c7e4d17cdc6329c6f97286",
     "links": [
       {
         "type": "wiki",
@@ -339,7 +342,7 @@
         "type": "header",
         "text": "Welcome!",
         "value": "welcome",
-        "line": 8,
+        "line": 9,
         "column": 0,
         "depth": 1
       },
@@ -347,7 +350,7 @@
         "type": "header",
         "text": "News",
         "value": "news",
-        "line": 12,
+        "line": 13,
         "column": 0,
         "depth": 1
       },
@@ -355,7 +358,7 @@
         "type": "header",
         "text": "References",
         "value": "references",
-        "line": 15,
+        "line": 16,
         "column": 0,
         "depth": 1
       },
@@ -363,7 +366,7 @@
         "type": "header",
         "text": "Check Our Groups Website and Awesome Research Projects!",
         "value": "check-our-groups-website-and-awesome-research-projects",
-        "line": 17,
+        "line": 18,
         "column": 0,
         "depth": 2
       },
@@ -371,13 +374,13 @@
         "type": "header",
         "text": "Want to Learn More? Check these:",
         "value": "want-to-learn-more-check-these",
-        "line": 19,
+        "line": 20,
         "column": 0,
         "depth": 2
       }
     },
     "children": [
-      "d86opcdblmnph6tww6zlbvi"
+      "it9t5bf108xpxl99mfuyk2q"
     ],
     "parent": null,
     "data": {},

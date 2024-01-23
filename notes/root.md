@@ -1,9 +1,10 @@
 ---
 id: 14bcxky1ao2buguzpeb3g1c
 title: PlatformX OS Club
-nav_exclude_children: true
+config:
+    nav_exclude_children: true
 desc: 'OS is fun'
-updated: 1706045455194
+updated: 1706047145520
 created: 1705965583029
 ---
 # Welcome!

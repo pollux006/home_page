@@ -1,8 +1,8 @@
 {
   "roots": [
     {
-      "key": "d86opcdblmnph6tww6zlbvi",
-      "title": "News HomePage",
+      "key": "it9t5bf108xpxl99mfuyk2q",
+      "title": "News",
       "icon": null,
       "hasTitleNumberOutlined": false,
       "vaultName": "test",
@@ -19,11 +19,11 @@
     }
   ],
   "child2parent": {
-    "d86opcdblmnph6tww6zlbvi": null,
-    "zjgsnmrz8s9dvlcrg7femb0": "d86opcdblmnph6tww6zlbvi"
+    "it9t5bf108xpxl99mfuyk2q": null,
+    "zjgsnmrz8s9dvlcrg7femb0": "it9t5bf108xpxl99mfuyk2q"
   },
   "notesLabelById": {
-    "d86opcdblmnph6tww6zlbvi": "News HomePage",
+    "it9t5bf108xpxl99mfuyk2q": "News",
     "zjgsnmrz8s9dvlcrg7femb0": "child"
   }
 }
