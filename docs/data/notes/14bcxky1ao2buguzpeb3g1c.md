@@ -3,7 +3,7 @@
 This is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. 
 
 # News
-[news](root.news)
+[[news]]
 
 # References
 
