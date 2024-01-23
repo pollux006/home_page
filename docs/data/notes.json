@@ -11,8 +11,8 @@
       "title": "This page has not yet sprouted",
       "schemaStub": false,
       "type": "note",
-      "updated": 1706041896365,
-      "created": 1706041896365,
+      "updated": 1706045234453,
+      "created": 1706045234453,
       "desc": "",
       "links": [],
       "anchors": {},
@@ -22,14 +22,13 @@
     },
     "14bcxky1ao2buguzpeb3g1c": {
       "id": "14bcxky1ao2buguzpeb3g1c",
-      "title": "Root",
-      "config": {
-        "nav_exclude_children": true
-      },
-      "desc": "",
-      "updated": 1706041641555,
+      "title": "PlatformX OS Club",
+      "nav_exclude_children": true,
+      "desc": "OS is fun",
+      "updated": 1706045168659,
       "created": 1705965583029,
       "custom": {
+        "nav_exclude_children": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -40,14 +39,14 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "4f78838007afa049e382f9e306597cee",
+      "contentHash": "1258d3bf70acbfe9fea205dc65c8ac67",
       "links": [],
       "anchors": {
-        "welcome-to-platformx-os-club": {
+        "welcome": {
           "type": "header",
-          "text": "Welcome to PlatformX OS Club",
-          "value": "welcome-to-platformx-os-club",
-          "line": 9,
+          "text": "Welcome!",
+          "value": "welcome",
+          "line": 8,
           "column": 0,
           "depth": 1
         },
@@ -55,7 +54,7 @@
           "type": "header",
           "text": "News",
           "value": "news",
-          "line": 13,
+          "line": 12,
           "column": 0,
           "depth": 1
         },
@@ -63,7 +62,7 @@
           "type": "header",
           "text": "References",
           "value": "references",
-          "line": 16,
+          "line": 15,
           "column": 0,
           "depth": 1
         },
@@ -71,7 +70,7 @@
           "type": "header",
           "text": "Check Our Groups Website and Awesome Research Projects!",
           "value": "check-our-groups-website-and-awesome-research-projects",
-          "line": 18,
+          "line": 17,
           "column": 0,
           "depth": 2
         },
@@ -79,7 +78,7 @@
           "type": "header",
           "text": "Want to Learn More? Check these:",
           "value": "want-to-learn-more-check-these",
-          "line": 20,
+          "line": 19,
           "column": 0,
           "depth": 2
         }
@@ -92,14 +91,13 @@
   "domains": [
     {
       "id": "14bcxky1ao2buguzpeb3g1c",
-      "title": "Root",
-      "config": {
-        "nav_exclude_children": true
-      },
-      "desc": "",
-      "updated": 1706041641555,
+      "title": "PlatformX OS Club",
+      "nav_exclude_children": true,
+      "desc": "OS is fun",
+      "updated": 1706045168659,
       "created": 1705965583029,
       "custom": {
+        "nav_exclude_children": true,
         "nav_order": 0,
         "permalink": "/"
       },
@@ -110,14 +108,14 @@
         "selfContained": true,
         "name": "test"
       },
-      "contentHash": "4f78838007afa049e382f9e306597cee",
+      "contentHash": "1258d3bf70acbfe9fea205dc65c8ac67",
       "links": [],
       "anchors": {
-        "welcome-to-platformx-os-club": {
+        "welcome": {
           "type": "header",
-          "text": "Welcome to PlatformX OS Club",
-          "value": "welcome-to-platformx-os-club",
-          "line": 9,
+          "text": "Welcome!",
+          "value": "welcome",
+          "line": 8,
           "column": 0,
           "depth": 1
         },
@@ -125,7 +123,7 @@
           "type": "header",
           "text": "News",
           "value": "news",
-          "line": 13,
+          "line": 12,
           "column": 0,
           "depth": 1
         },
@@ -133,7 +131,7 @@
           "type": "header",
           "text": "References",
           "value": "references",
-          "line": 16,
+          "line": 15,
           "column": 0,
           "depth": 1
         },
@@ -141,7 +139,7 @@
           "type": "header",
           "text": "Check Our Groups Website and Awesome Research Projects!",
           "value": "check-our-groups-website-and-awesome-research-projects",
-          "line": 18,
+          "line": 17,
           "column": 0,
           "depth": 2
         },
@@ -149,7 +147,7 @@
           "type": "header",
           "text": "Want to Learn More? Check these:",
           "value": "want-to-learn-more-check-these",
-          "line": 20,
+          "line": 19,
           "column": 0,
           "depth": 2
         }
@@ -157,19 +155,18 @@
       "children": [],
       "parent": null,
       "data": {},
-      "body": "# Welcome to PlatformX OS Club\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[News Homepage](root.news)\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin]((elixir.bootlin.com/linux/latest/source))\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
+      "body": "# Welcome!\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[news](root.news)\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](https://www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin](https://elixir.bootlin.com/linux/latest/source)\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
     }
   ],
   "noteIndex": {
     "id": "14bcxky1ao2buguzpeb3g1c",
-    "title": "Root",
-    "config": {
-      "nav_exclude_children": true
-    },
-    "desc": "",
-    "updated": 1706041641555,
+    "title": "PlatformX OS Club",
+    "nav_exclude_children": true,
+    "desc": "OS is fun",
+    "updated": 1706045168659,
     "created": 1705965583029,
     "custom": {
+      "nav_exclude_children": true,
       "nav_order": 0,
       "permalink": "/"
     },
@@ -180,14 +177,14 @@
       "selfContained": true,
       "name": "test"
     },
-    "contentHash": "4f78838007afa049e382f9e306597cee",
+    "contentHash": "1258d3bf70acbfe9fea205dc65c8ac67",
     "links": [],
     "anchors": {
-      "welcome-to-platformx-os-club": {
+      "welcome": {
         "type": "header",
-        "text": "Welcome to PlatformX OS Club",
-        "value": "welcome-to-platformx-os-club",
-        "line": 9,
+        "text": "Welcome!",
+        "value": "welcome",
+        "line": 8,
         "column": 0,
         "depth": 1
       },
@@ -195,7 +192,7 @@
         "type": "header",
         "text": "News",
         "value": "news",
-        "line": 13,
+        "line": 12,
         "column": 0,
         "depth": 1
       },
@@ -203,7 +200,7 @@
         "type": "header",
         "text": "References",
         "value": "references",
-        "line": 16,
+        "line": 15,
         "column": 0,
         "depth": 1
       },
@@ -211,7 +208,7 @@
         "type": "header",
         "text": "Check Our Groups Website and Awesome Research Projects!",
         "value": "check-our-groups-website-and-awesome-research-projects",
-        "line": 18,
+        "line": 17,
         "column": 0,
         "depth": 2
       },
@@ -219,7 +216,7 @@
         "type": "header",
         "text": "Want to Learn More? Check these:",
         "value": "want-to-learn-more-check-these",
-        "line": 20,
+        "line": 19,
         "column": 0,
         "depth": 2
       }
@@ -227,7 +224,7 @@
     "children": [],
     "parent": null,
     "data": {},
-    "body": "# Welcome to PlatformX OS Club\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[News Homepage](root.news)\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin]((elixir.bootlin.com/linux/latest/source))\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
+    "body": "# Welcome!\n\nThis is the Homepage for PlatformX OS Club. We are interested in Operating System Related Research. \n\n# News\n[news](root.news)\n\n# References\n\n## Check Our Groups Website and Awesome Research Projects!\n\n## Want to Learn More? Check these:\n- Linux Source Code \\[[kernel.org](https://www.kernel.org)\\]\n- A good website for viewing code \\[[bootlin](https://elixir.bootlin.com/linux/latest/source)\\]\n- A good OS book \\[[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)\\]\n"
   },
   "vaults": [
     {
