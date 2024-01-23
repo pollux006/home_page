@@ -128,7 +128,6 @@
     "enableTaskNotes": true,
     "enablePrettyLinks": true,
     "searchMode": "search",
-    "assetsPrefix": "/home_page",
     "siteUrl": "https://pollux006.github.io",
     "logoPath": "/notes/assets/pic/tux.png",
     "siteFaviconPath": "favicon.ico",
